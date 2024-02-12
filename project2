@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Design System</title>
+    <link href="styles.css" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Design Solution</h1>
+    <h2>Color</h2>
+    <h2>Font</h2>
+    <h2>Style</h2>
+  </body>
+</html>
